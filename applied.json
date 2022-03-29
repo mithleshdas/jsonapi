@@ -1,0 +1,262 @@
+{
+  "Xiaomi": [
+    {
+      "name": "Mithlesh Das",
+      "education": "BE Computer Science",
+      "experience": "Fresher",
+      "skill": "React Js, HTML, Bootstrap, CSS",
+      "exsalary": "20000",
+      "language": "Hindi, English",
+      "email": "mithleshdas80@gmail.com",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "mobile": "7987628232",
+      "post": "UI/UX Developer",
+      "address": "KCB Layout, Marathalli, Bangalore",
+      "avatar": "./avatar/3.png",
+      "id": 1
+    },
+    {
+      "name": "Ramesh Sahu",
+      "education": "BE Computer Science",
+      "experience": "Fresher",
+      "skill": "React Js, HTML, Bootstrap, CSS",
+      "exsalary": "20000",
+      "language": "Hindi, English",
+      "email": "mithleshdas80@gmail.com",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "mobile": "7987628232",
+      "post": "UI/UX Developer",
+      "address": "KCB Layout, Marathalli, Bangalore",
+      "avatar": "./avatar/3.png",
+      "id": 2
+    },
+    {
+      "name": "sfsadfadfa",
+      "education": "fadsfadsfa",
+      "experience": "sfasdfasf",
+      "skill": "fasfdfaadf",
+      "exsalary": "fdadsfsdf",
+      "language": "sfasdfasfd",
+      "email": "fsdafdfasdf",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "mobile": "97979797",
+      "post": "UI/UX Developer",
+      "address": "fsdafdfas",
+      "avatar": "./avatar/1.png",
+      "id": 3
+    }
+  ],
+  "TCS": [
+    {
+      "name": "Rohan Yadav",
+      "education": "BE",
+      "experience": "2 Years",
+      "skill": "React Js",
+      "exsalary": "10000",
+      "language": "hindi",
+      "email": "tanu@gmil.com",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "mobile": 897987898,
+      "address": "this is the addresss",
+      "post": "",
+      "avatar": "./avatar/3.png",
+      "id": 1
+    },
+    {
+      "name": "Sushant Mahant",
+      "education": "BE Computer Science",
+      "experience": "Fresher",
+      "skill": "React Js, HTML, Bootstrap, CSS",
+      "exsalary": "20000",
+      "language": "Hindi, English",
+      "email": "mithleshdas80@gmail.com",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "mobile": "7987628232",
+      "post": "UI/UX Developer",
+      "address": "KCB Layout, Marathalli, Bangalore",
+      "avatar": "./avatar/3.png",
+      "id": 1
+    },
+    {
+      "name": "Mithlesh Das",
+      "education": "B.tech Computer Science",
+      "experience": "0 year",
+      "skill": "HTML, CSS, JavaScript, React Js, Bootstrp, Redux",
+      "exsalary": "20000",
+      "language": "Hindi,",
+      "email": "mithleshdas80@gmail.com",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "mobile": "8987485985",
+      "post": "Software Developer",
+      "address": "Marathahalli, Bangalore",
+      "avatar": "./avatar/1.png",
+      "id": 2
+    }
+  ],
+  "Intel": [
+    {
+      "name": "Anil Das Das",
+      "education": "BE Computer Science",
+      "experience": "Fresher",
+      "skill": "React Js, HTML, Bootstrap, CSS",
+      "exsalary": "20000",
+      "language": "Hindi, English",
+      "email": "mithleshdas80@gmail.com",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "mobile": "7987628232",
+      "post": "UI/UX Developer",
+      "address": "KCB Layout, Marathalli, Bangalore",
+      "avatar": "./avatar/3.png",
+      "id": 1
+    }
+  ],
+  "HP": [
+    {
+      "name": "Ramesh Kumar",
+      "education": "BE Computer Science",
+      "experience": "Fresher",
+      "skill": "React Js, HTML, Bootstrap, CSS",
+      "exsalary": "20000",
+      "language": "Hindi, English",
+      "email": "mithleshdas80@gmail.com",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "mobile": "7987628232",
+      "post": "UI/UX Developer",
+      "address": "KCB Layout, Marathalli, Bangalore",
+      "avatar": "./avatar/3.png",
+      "id": 1
+    }
+  ],
+  "Lenovo": [
+    {
+      "name": "Dilip Kumar",
+      "education": "BE Computer Science",
+      "experience": "Fresher",
+      "skill": "React Js, HTML, Bootstrap, CSS",
+      "exsalary": "20000",
+      "language": "Hindi, English",
+      "email": "mithleshdas80@gmail.com",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "mobile": "7987628232",
+      "post": "UI/UX Developer",
+      "address": "KCB Layout, Marathalli, Bangalore",
+      "avatar": "./avatar/3.png",
+      "id": 1
+    }
+  ],
+  "Amazon": [
+    {
+      "name": "Jitendra Paikara",
+      "education": "BE Computer Science",
+      "experience": "Fresher",
+      "skill": "React Js, HTML, Bootstrap, CSS",
+      "exsalary": "20000",
+      "language": "Hindi, English",
+      "email": "mithleshdas80@gmail.com",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "mobile": "7987628232",
+      "post": "UI/UX Developer",
+      "address": "KCB Layout, Marathalli, Bangalore",
+      "avatar": "./avatar/3.png",
+      "id": 1
+    }
+  ],
+  "Microsoft": [
+    {
+      "name": "Vinod Kumar",
+      "education": "BE Computer Science",
+      "experience": "Fresher",
+      "skill": "React Js, HTML, Bootstrap, CSS",
+      "exsalary": "20000",
+      "language": "Hindi, English",
+      "email": "mithleshdas80@gmail.com",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "mobile": "7987628232",
+      "post": "UI/UX Developer",
+      "address": "KCB Layout, Marathalli, Bangalore",
+      "avatar": "./avatar/3.png",
+      "id": 1
+    }
+  ],
+  "LG": [
+    {
+      "name": "Vinod Kumar",
+      "education": "BE Computer Science",
+      "experience": "Fresher",
+      "skill": "React Js, HTML, Bootstrap, CSS",
+      "exsalary": "20000",
+      "language": "Hindi, English",
+      "email": "mithleshdas80@gmail.com",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "mobile": "7987628232",
+      "post": "UI/UX Developer",
+      "address": "KCB Layout, Marathalli, Bangalore",
+      "avatar": "./avatar/3.png",
+      "id": 1
+    }
+  ],
+  "Infosys": [
+    {
+      "name": "Vinod Kumar",
+      "education": "BE Computer Science",
+      "experience": "Fresher",
+      "skill": "React Js, HTML, Bootstrap, CSS",
+      "exsalary": "20000",
+      "language": "Hindi, English",
+      "email": "mithleshdas80@gmail.com",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "mobile": "7987628232",
+      "post": "UI/UX Developer",
+      "address": "KCB Layout, Marathalli, Bangalore",
+      "avatar": "./avatar/3.png",
+      "id": 1
+    },
+    {
+      "name": "fasdsa",
+      "education": "asfsdafd",
+      "experience": "safsdfa",
+      "skill": "asdfsdafd",
+      "exsalary": "afsdfas",
+      "language": "asfsdfad",
+      "email": "afsdfd",
+      "city": "Bangalore",
+      "state": "Tamilnadu",
+      "mobile": "asfdaf",
+      "post": "fafsdfasdf",
+      "address": "asfsafdfa",
+      "avatar": "./avatar/1.png",
+      "id": 2
+    }
+  ],
+  "Sony": [
+    {
+      "name": "Vinod Kumar",
+      "education": "BE Computer Science",
+      "experience": "Fresher",
+      "skill": "React Js, HTML, Bootstrap, CSS",
+      "exsalary": "20000",
+      "language": "Hindi, English",
+      "email": "mithleshdas80@gmail.com",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "mobile": "7987628232",
+      "post": "UI/UX Developer",
+      "address": "KCB Layout, Marathalli, Bangalore",
+      "avatar": "./avatar/3.png",
+      "id": 1
+    }
+  ]
+}
