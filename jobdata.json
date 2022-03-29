@@ -236,39 +236,6 @@
       "Address": "Mear Marathalli bridge, opposite JS Hardware Shop ",
       "id": 14
     }
-  ],
-  "company": [
-    {
-      "id": 1,
-      "name": "Xiaomi",
-      "email": "xiaomi@gmail.com",
-      "contact": "7897898798",
-      "pass": "123123",
-      "logo": "./logo/Xiaomi.png"
-    },
-    {
-      "id": 2,
-      "name": "TCS",
-      "email": "tcs@gmail.com",
-      "contact": "7897898798",
-      "pass": "123123",
-      "logo": "./logo/tcs.png"
-    },
-    {
-      "name": "TCS",
-      "email": "tcs@gamil.com",
-      "contact": "787478787",
-      "pass": "123123",
-      "logo": "./logo/tata.png",
-      "id": 3
-    },
-    {
-      "name": "Sony",
-      "email": "sony@mail.com",
-      "contact": "787854874",
-      "pass": "123123",
-      "logo": "./logo/sony.png",
-      "id": 4
-    }
   ]
+  
 }
